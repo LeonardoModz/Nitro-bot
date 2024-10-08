@@ -11,7 +11,7 @@ This is a Discord bot developed using Discord.py and Discord Slash Commands, cap
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/deepanshu0211/Discord-Bot.git
+   git clone [https://github.com/deepanshu0211/Discord-Bot.git](https://github.com/LeonardoModz/Nitro-bot/blob
 
 ## Set up your Discord bot token:
 2.  **Create a Discord application and bot account: Discord Developer Portal**
