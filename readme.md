@@ -20,7 +20,7 @@ This is a Discord bot developed using Discord.py and Discord Slash Commands, cap
 ## Usage
 
 1. **Run the bot**
-    ```python bot.py```
+    ```python Nitro-bot.py```
 
 2. **Invite the bot to your Discord server:**
   - Go to the Discord Developer Portal and copy your bot's OAuth2 URL.
