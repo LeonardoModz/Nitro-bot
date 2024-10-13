@@ -1,6 +1,6 @@
 import discord
 import asyncio
-from PIL import Image, ImageDraw, ImageFont
+from PIL
 from discord.ext import commands
 import database
 import iptv
